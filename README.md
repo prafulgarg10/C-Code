@@ -1,4 +1,4 @@
-# C++-Code for below situation
+# C++ Code for below situation
 
 Assume that a Bus has total 50 seats. The arrangement is like 10 Rows and each Row contains 5 seats. Assume that Row 1 is reserved
 for Disabled category (D), Row 2 to Row 5 for Women's (W) category and Remaining for General (G) (All categories including
